@@ -1,7 +1,5 @@
 # hadoopWordcountDemo
 第一个Hadoop的WordCount DEMO程序
-# hadoopWordcountDemo
-第一个Hadoop的WordCount DEMO程序
 
 步骤：
 
