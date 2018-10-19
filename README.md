@@ -7,7 +7,7 @@
 
 2、在hdfs上传README.txt作为wordCount的计算文件，
 
-> bin/hadoop fs -mkdir /hadoopdata
+> bin/hadoop fs -mkdir /hadoopdata <br />
 > bin/hadoop fs -copyFromLocal /usr/local/hadoop/README.txt /hadoopdata
 
 3、启动wordcount计算程序
